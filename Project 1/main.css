@@ -1,0 +1,47 @@
+body {
+	padding:20px 10px;
+	font-family: Helvetic;
+	max-width: 75%;
+	margin: 0 auto;
+	font-size: 1.4em;
+}
+h1 {
+text-align: center;
+color: #0047B2;
+	
+}
+
+p {
+	margin: 10px 0;
+}
+
+.lesson {
+	background-color: #0047B2;
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+	margin: 10px auto;
+}
+
+h2 {
+	margin: 10px;
+}
+
+.concept {
+	background-color: #B2C8E8;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+.lessonheader {
+	font-size: 28px;
+	margin: 8px;
+	text-align: center;
+	color: #0047B2;
+}
+
+.lessondescription {
+	font-weight: lighter;
+	margin: 6px;
+}
